@@ -1,0 +1,205 @@
+Management Center (LCMC) contracts that provide and deliver or transfer supply. Basic , Delivery Orders, Task Orders, and their modifications if the mod introduced supply to the contract.
+
+Contract examples include but are not limited to:
+
+1.       Platform production contracts that procure and deliver initial spares
+
+2.       Contract mods (ECPs) that change configuration and deliver mod kits and spares
+
+3.       Supply contracts that replenish Government Furnished Material (GFM)
+
+4.       Contracts that purchase Contractor Acquired Property (CAP) which becomes USG property at the end of the contract
+
+5.       Services contracts that transfer GFM to and from repair/overhaul facilities
+
+6.       Contracts classified as Services contracts but have a small percentage of supply CLINS
+
+7.       Etc…
+
+
+
+A PWS or SOW is typically an Attachment to the contract. Are they available in the database as well? The following PWS/SOW paragraph statements are also of interest to perform a search on.
+
+
+
+Statement Of Work
+
+ASSIST Documents for Specifications Listed in the GSA Index of Federal
+
+Specifications, Standards and Commercial Item Descriptions
+
+The contractor shall use the ASSIST website to access specification,
+
+standards, data item descriptions documents listed in this contract
+
+solicitation:
+
+http://quicksearch.dla.mil/
+
+PRESERVATION, PACKAGING & MARKING REQUIREMENTS
+
+The contractor shall develop, implement and maintain the preservation,
+
+packaging and packing of all items to be delivered under the terms of this
+
+contract.  Packaging procedures will be established in accordance with AFMCI
+
+24-201, specifically Paragraph 3.7 and MIL-STD-2073-1,  Standard Practice
+
+for Military Packaging (current revision); Packaging requirements are
+
+identified in the AFMC Form 158, Packaging Requirements submitted by the
+
+responsible packaging specialist. All "markings and labeling" of shipments
+
+shall conform to MIL-STD 129, DoD Standard Practice, Military Marking for
+
+Shipment and Storage (current revision)  The contractor "shall" affix a
+
+completed DD Form 1574, Serviceable Tag-Materiel or DD Form 1574-1,
+
+Serviceable Label- Materiel to each unit pack or intermediate container and
+
+prime outer container(s).  The tag or label will indicate the condition(s)
+
+of the materiel and to identify the individual article or contents, bundle,
+
+container to which they are securely attached.
+
+
+
+SPECIAL PACKAGING INSTRUCTIONS RETRIEVAL & ECHANGE SYSTEMS
+
+The contractor may request for a SPIRES account via the URL below to verify
+
+current packaging data requirements & drawings:
+
+https://spires.wpafb.af.mil/
+
+
+
+
+
+INTERNATIONAL STANDARDS FOR PHYTOSANITARY MEASURES
+
+(ISPM NO. 15) REQUIREMENTS
+
+The contractor shall use the wood packaging material regulation for
+
+international trade which describes phytosanitary (including treatments)
+
+that have been approved for wood packaging material and provides for the
+
+approval of new or revised treatments. Use the latest revision of (ISPM No.
+
+15), and the following statement complies with the United
+
+Nations-implemented restrictions on wood packaging material (WPM).  "This
+
+requirement is specifically concerned with invasive species such as pinewood
+
+nematode.  WPM is defined as wood pallets, skids, load boards, pallet
+
+collars, wooden boxes, reels, dunnage, crates, frames, and cleats.  The
+
+statement below cites the requirements in detail and covers lumber for
+
+building containers and pallets used for deliveries resulting in worldwide
+
+shipments (direct vendor deliveries, Air Logistics complex (ALC), Container
+
+Consolidation Points (CCP), Aerial Ports, Water Ports, or other DoD
+
+installations.):
+
+
+
+ELECTROSTATIC MATERIAL (When Applicable)
+
+The Contractor shall apply provisions of MIL-STD-1686, (current revision)
+
+when identifying all solid state devices and modules containing diodes,
+
+translators, integrated circuits and/or other microelectronic components
+
+sensitive to electrostatic forces.  All such items shall be packaged IAW
+
+MIL_STD 2073-1 using electrostatic free barrier materials and shall clearly
+
+bear "Electrostatic Sensitive Device" labels IAW MIL-STD 129, Department of
+
+Defense Standard Practice Military Marking for Shipment and Storage.
+
+
+
+PALLETIZED UNIT LOADS
+
+The Contractor shall apply provisions and methods of MIL-STD-147, current
+
+revision to contracts requiring the preparation and shipment of bonded
+
+palletized unit loads for DoD facilities.
+
+
+
+HAZARDOUS MATERIALS (When Applicable)
+
+The contractor shall ensure Hazardous shipments comply with International
+
+Civil Aviation Organization (ICAO), U.S. Code of Federal Regulations (CFR)
+
+Title 49, International Air Transport Association (IATA) Dangerous Goods
+
+Regulation, International Maritime Dangerous Goods Code (IMDG, Annex 1), and
+
+AFMAN24-204_IP, Preparing Hazardous Materials for Military Air Shipments.
+
+Packaging shall meet "DOT specification or a United Nation (UN)
+
+specification " manufactured in accordance with 49 CFR, Part 178 and the
+
+final packages assembled IAW 49 CFR, Parts 100-185 as applicable.  A
+
+Competent Authority Approval (CAA) shall be acquired from the responsible
+
+Associate Administrator or other designated Department official to perform a
+
+function requiring prior consent under the Hazardous Material Regulation
+
+(HMR).  Packages(s) shall be marked IAW MIL-STD-129, DoD Standard Practice,
+
+Military Marking for Shipment and Storage. The contractor "shall" affix a
+
+completed DD Form 1574, Serviceable Tag-Materiel or DD Form 1574-1,
+
+Serviceable Label- Materiel to each unit pack or intermediate container and
+
+prime outer container(s).  The tag or label will indicate the condition(s)
+
+of the materiel and to identify the individual article or contents, bundle,
+
+container to which they are securely attached.  If a symbol is used to
+
+represent the manufacturer or the approval agency certifying compliance with
+
+49 CFR 178, subparts L and M, the symbol must be registered with the U.S.
+
+Department of Transportation.  A copy of the Contractor's Test Report and
+
+signed certification that the package configuration meets both CFR and UN
+
+requirements shall be made available to the procuring contract office, as
+
+required, prior to acceptance or shipment of any portion of the product IAW
+
+Contract Data Requirements List (CDRL) (Reference AFMC Form 158).  Safety
+
+Data Sheets (SDS) are required for known hazardous items and applicable
+
+items shown in FED-STD-313, Tables I and II.  The SDS shall have any
+
+applicable identification number, such as National Stock Number or Special
+
+Item Number.  A copy of the SDS shall be mailed or e-mailed no later than
+
+"FIVE" days prior to contractual delivery of items:
